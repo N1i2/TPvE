@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"by.delstu.it.selicky.basejava","l":"JavaTest"},{"p":"person","l":"Person"},{"p":"wrapper","l":"WrapperString"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.delstu.it.selicky.basejava"},{"l":"person"},{"l":"wrapper"}];updateSearchResults();
