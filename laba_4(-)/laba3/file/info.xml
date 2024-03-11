@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserWork>
+    <User>
+        <Name>nikola</Name>
+        <Password>qwerty</Password>
+        <IdUser>1</IdUser>
+        <uCard>
+            <IdCard>1</IdCard>
+            <IdUser>1</IdUser>
+            <View>Credit</View>
+            <PinCod>1234</PinCod>
+            <IdSchet>1</IdSchet>
+            <Activ>true</Activ>
+        </uCard>
+        <uSchet>
+            <IdSchet>1</IdSchet>
+            <IdCard>1</IdCard>
+            <View>Credit</View>
+            <Cash>90</Cash>
+        </uSchet>
+    </User>
+</UserWork>
