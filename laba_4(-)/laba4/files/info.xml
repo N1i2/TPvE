@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<User>
+    <Name>hello</Name>
+    <Password>qwerty</Password>
+    <cards>
+        <card>
+            <id>1</id>
+            <cash>90</cash>
+            <pinCod>1234</pinCod>
+        </card>
+    </cards>
+</User>

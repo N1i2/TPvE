@@ -1,0 +1,44 @@
+17.03.2024 17:00:35 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:00:48 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:01:19 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:02:10 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:03:08 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:04:16 [main] INFO  main.Start.Main  - Start
+17.03.2024 17:07:11 [main] INFO  main.Start.Main  - Start
+17.03.2024 18:04:19 [main] ERROR main.Start.Main  - files/info.xml SAX error cvc-complex-type.2.4.a: Invalid content was found starting with element 'pinCod'. One of '{pinCode}' is expected.
+17.03.2024 18:04:19 [main] INFO  main.Start.Main  - Start
+17.03.2024 18:05:33 [main] INFO  main.Start.Main  - All correct
+17.03.2024 18:05:33 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:31:05 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:31:06 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:31:06 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:31:49 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:31:49 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:31:49 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:32:13 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:32:14 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:32:14 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:37:01 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:37:01 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:37:01 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:37:27 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:37:27 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:37:27 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:38:37 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:38:38 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:38:38 [main] INFO  main.Start.Main  - Start
+17.03.2024 19:39:42 [main] INFO  main.Start.Main  - All correct
+17.03.2024 19:39:43 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 19:39:43 [main] INFO  main.Start.Main  - Start
+17.03.2024 20:21:14 [main] INFO  main.Start.Main  - All correct
+17.03.2024 20:21:14 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 20:21:14 [main] INFO  main.Start.Main  - Start
+17.03.2024 20:21:39 [main] INFO  main.Start.Main  - All correct
+17.03.2024 20:21:39 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 20:21:39 [main] INFO  main.Start.Main  - Start
+17.03.2024 20:22:03 [main] INFO  main.Start.Main  - All correct
+17.03.2024 20:22:03 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 20:22:03 [main] INFO  main.Start.Main  - Start
+17.03.2024 20:22:54 [main] INFO  main.Start.Main  - All correct
+17.03.2024 20:22:54 [main] INFO  main.Start.Main  - Correct creat file (User.json)
+17.03.2024 20:22:54 [main] INFO  main.Start.Main  - Start
