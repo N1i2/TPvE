@@ -1,6 +1,7 @@
 package Start;
 
 import javax.swing.*;
+import javax.swing.text.html.parser.Parser;
 import javax.xml.XMLConstants;
 import javax.xml.transform.Source;
 import javax.xml.transform.stream.StreamSource;
@@ -20,6 +21,8 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.xml.sax.SAXException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.xml.sax.XMLReader;
+import org.xml.sax.helpers.XMLReaderFactory;
 
 public class Main
 {
@@ -64,6 +67,18 @@ public class Main
         }
         catch (Exception x){
             LOG.error("Not create file (User.json)");
+        }
+
+        try {
+            XMLReader reader = XMLReaderFactory.createXMLReader();
+            ParserHand parser = new ParserHand();
+            reader.setContentHandler(parser);
+            reader.parse("files/info.xml");
+            LOG.info(XMLFile + " IS VALID PARSE");
+        } catch (SAXException e) {
+            LOG.error(XMLFile + " SAX error " + e.getMessage());
+        } catch (IOException e) {
+            LOG.error("IO error " + e.getMessage());
         }
 
         LOG.info("Start");
