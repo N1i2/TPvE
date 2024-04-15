@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="User" type="UserType"/>
+
+    <xs:complexType name="UserType">
+        <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Password" type="xs:string"/>
+            <xs:element name="cards" type="CardListType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CardListType">
+        <xs:sequence>
+            <xs:element name="card" type="CardType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CardType">
+        <xs:sequence>
+            <xs:element name="id" type="xs:int"/>
+            <xs:element name="cash" type="xs:double"/>
+            <xs:element name="pinCod" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>
