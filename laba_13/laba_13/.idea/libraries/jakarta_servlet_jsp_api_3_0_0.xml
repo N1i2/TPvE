@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jakarta.servlet.jsp-api-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/jakarta.servlet.jsp-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/byte-buddy-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/byte-buddy-agent-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/mockito-core-2.23.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/mssql-jdbc-12.6.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/laba_13/lib/objenesis-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
